@@ -48,6 +48,14 @@
   "grande": "imagenes/ensayos/grande/sin_fondo/curva_francesa_doble.webp"
  },
  {
+  "id": "1J0-ALvS7CNo8-spWV1j8JSlehW7LQFh4",
+  "nombre": "sin_fondo/elementos naranjos.png",
+  "mini": "imagenes/ensayos/mini/sin_fondo/elementos naranjos.webp",
+  "w": 700,
+  "h": 498,
+  "grande": "imagenes/ensayos/grande/sin_fondo/elementos naranjos.webp"
+ },
+ {
   "id": "1uTYsf5QWegYNWbf375CRIO2AGfjl8IIC",
   "nombre": "sin_fondo/formas Celestes.png",
   "mini": "imagenes/ensayos/mini/sin_fondo/formas Celestes.webp",
@@ -62,14 +70,6 @@
   "w": 700,
   "h": 451,
   "grande": "imagenes/ensayos/grande/sin_fondo/naranjito bonito.webp"
- },
- {
-  "id": "1Z63YNKAE_yZ0YmfSvbCK399UO1b1S5sc",
-  "nombre": "sin_fondo/piezas_naranjas.png",
-  "mini": "imagenes/ensayos/mini/sin_fondo/piezas_naranjas.webp",
-  "w": 700,
-  "h": 498,
-  "grande": "imagenes/ensayos/grande/sin_fondo/piezas_naranjas.webp"
  },
  {
   "id": "1YVi-eYUCw-zP09Npyi_Qdoizw58NLY1r",
