@@ -24,6 +24,14 @@
   "grande": "imagenes/ensayos/grande/naranjasycometas.webp"
  },
  {
+  "id": "1HzHcFxBLriXzVkbDHFc8VwQiRrlI_tf_",
+  "nombre": "sin_fondo/circulos_grandes.png",
+  "mini": "imagenes/ensayos/mini/sin_fondo/circulos_grandes.webp",
+  "w": 700,
+  "h": 365,
+  "grande": "imagenes/ensayos/grande/sin_fondo/circulos_grandes.webp"
+ },
+ {
   "id": "12FLvyH3r5KklrCwkgKU9uZDdzatpy430",
   "nombre": "sin_fondo/curva_francesa.png",
   "mini": "imagenes/ensayos/mini/sin_fondo/curva_francesa.webp",
@@ -38,6 +46,14 @@
   "w": 416,
   "h": 700,
   "grande": "imagenes/ensayos/grande/sin_fondo/curva_francesa_doble.webp"
+ },
+ {
+  "id": "1uTYsf5QWegYNWbf375CRIO2AGfjl8IIC",
+  "nombre": "sin_fondo/formas Celestes.png",
+  "mini": "imagenes/ensayos/mini/sin_fondo/formas Celestes.webp",
+  "w": 700,
+  "h": 427,
+  "grande": "imagenes/ensayos/grande/sin_fondo/formas Celestes.webp"
  },
  {
   "id": "1RJ98Dnq-OQLeoi9ETFKAPqgFQrbGijrs",
@@ -62,14 +78,6 @@
   "w": 700,
   "h": 567,
   "grande": "imagenes/ensayos/grande/sin_fondo/piezas_sueltas.webp"
- },
- {
-  "id": "1m8O94oeCwUHALADR2ykof7el-e0Js-z4",
-  "nombre": "sin_fondo/plantilla_circulos_grandes.png",
-  "mini": "imagenes/ensayos/mini/sin_fondo/plantilla_circulos_grandes.webp",
-  "w": 365,
-  "h": 700,
-  "grande": "imagenes/ensayos/grande/sin_fondo/plantilla_circulos_grandes.webp"
  },
  {
   "id": "1AxccQbpZmfKFEo2hFFQppdLT9o8O-M7E",
@@ -118,6 +126,14 @@
   "w": 355,
   "h": 700,
   "grande": "imagenes/ensayos/grande/sin_fondo/plantilla_simbolos.webp"
+ },
+ {
+  "id": "1C6CROe9uTKyJoQbyaw23mXuKgvmL_gvZ",
+  "nombre": "sin_fondo/s_celeste.png",
+  "mini": "imagenes/ensayos/mini/sin_fondo/s_celeste.webp",
+  "w": 348,
+  "h": 700,
+  "grande": "imagenes/ensayos/grande/sin_fondo/s_celeste.webp"
  },
  {
   "id": "1gdM1OAXjGy8TkkceeQbSqu9rpm325F6h",
